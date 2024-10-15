@@ -2,16 +2,16 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🔀 Merged [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-2. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-10-07` in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-3. 🔎 Reviewed [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-4. 🔀 Merged [PR #33](https://github.com/Wiresense/frontend/pull/33) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-5. 🔀 Merged [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-6. 🔎 Reviewed [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-7. 🔀 Merged [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-8. 📝 Committed to [Wiresense/frontend](https://github.com/Wiresense/frontend/commit/c3033c6dd92c6ba79069aec4be284256be551447)
-9. 🔎 Reviewed [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-10. ❌ Closed [PR #59](https://github.com/TheDanniCraft/Portfolio/pull/59) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
+1. 📝 Committed to [HowTT8998/jira](https://github.com/HowTT8998/jira/commit/de48b6df0923cf04b5bd3e1ccbc6afe034c39081)
+2. 📝 Committed to [HowTT8998/jira](https://github.com/HowTT8998/jira/commit/f29fb9a5b6c9a6db73c858df887d45e30c4ddcb6)
+3. 🔀 Merged [PR #14](https://github.com/HowTT8998/jira/pull/14) in [HowTT8998/jira](https://github.com/HowTT8998/jira)
+4. 📥 Opened [PR #14](https://github.com/HowTT8998/jira/pull/14) in [HowTT8998/jira](https://github.com/HowTT8998/jira)
+5. 📝 Committed to [HowTT8998/jira](https://github.com/HowTT8998/jira/commit/c8a9994f7c4138d749984f7bb28b73ad143b5393)
+6. 📝 Committed to [HowTT8998/jira](https://github.com/HowTT8998/jira/commit/f29fb9a5b6c9a6db73c858df887d45e30c4ddcb6)
+7. 📝 Committed to [HowTT8998/jira](https://github.com/HowTT8998/jira/commit/49c8fac71824510678e9d3b1ec6a214ca7fef226)
+8. ❌ Closed an issue [#12](https://github.com/HowTT8998/jira/issues/12) in [HowTT8998/jira](https://github.com/HowTT8998/jira)
+9. 🔀 Merged [PR #13](https://github.com/HowTT8998/jira/pull/13) in [HowTT8998/jira](https://github.com/HowTT8998/jira)
+10. 📥 Opened [PR #13](https://github.com/HowTT8998/jira/pull/13) in [HowTT8998/jira](https://github.com/HowTT8998/jira)
 <!--END_SECTION:activity-->
 
 ### About Me
