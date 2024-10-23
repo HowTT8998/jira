@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Update GitHub Activity
-        uses: TheDanniCraft/activity-log@v1
+        uses: TheDanniCraft/activity-log@v2
         with:
           GITHUB_USERNAME: "HowTT8998"
           GITHUB_TOKEN: ${{ secrets.JIRA_ACTION_SECRETS }}
