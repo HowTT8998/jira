@@ -1,3 +1,4 @@
+
 name: Update GitHub Activity
 
 on:
@@ -13,5 +14,5 @@ jobs:
       - name: Update GitHub Activity
         uses: TheDanniCraft/activity-log@v1
         with:
-          GITHUB_USERNAME: "HowTT8998"
-          GITHUB_TOKEN: ${{ secrets.ACTIONSECRET2024 }}
+          GITHUB_USERNAME: "howtt8998"
+          GITHUB_TOKEN: ${{ secrets.ACTIONSECRET2024 }}  # Ensure this matches the secret name in repository settings
