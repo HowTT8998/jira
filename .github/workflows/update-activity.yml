@@ -15,4 +15,4 @@ jobs:
         uses: TheDanniCraft/activity-log@v1
         with:
           GITHUB_USERNAME: "HowTT8998"
-          GITHUB_TOKEN: ${{ secrets.JIRA_ACTION_SECRET }}  # Ensure this matches the secret name in repository settings
+          GITHUB_TOKEN: ${{ secrets.ACTIONSECRET2024 }}  # Ensure this matches the secret name in repository settings
